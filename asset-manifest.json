@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/berryhomeland/static/css/main.98c5be4c.css",
-    "main.js": "/berryhomeland/static/js/main.50caee88.js",
+    "main.js": "/berryhomeland/static/js/main.aba3afe5.js",
     "static/js/453.fe668fb5.chunk.js": "/berryhomeland/static/js/453.fe668fb5.chunk.js",
     "index.html": "/berryhomeland/index.html",
     "main.98c5be4c.css.map": "/berryhomeland/static/css/main.98c5be4c.css.map",
-    "main.50caee88.js.map": "/berryhomeland/static/js/main.50caee88.js.map",
+    "main.aba3afe5.js.map": "/berryhomeland/static/js/main.aba3afe5.js.map",
     "453.fe668fb5.chunk.js.map": "/berryhomeland/static/js/453.fe668fb5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.98c5be4c.css",
-    "static/js/main.50caee88.js"
+    "static/js/main.aba3afe5.js"
   ]
 }
